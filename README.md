@@ -1,2 +1,2 @@
 # TFLearning
-This is a basic creation of GCP Compute Instance using Terraform
+This is basic creation of GCP Compute Instance using Terraform
